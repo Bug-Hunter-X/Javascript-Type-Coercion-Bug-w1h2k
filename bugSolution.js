@@ -1,0 +1,1 @@
+function foo(a,b){a = parseInt(a);b = parseInt(b);return a+b;}console.log(foo(1,2));console.log(foo(1,"2"));
